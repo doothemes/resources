@@ -1,6 +1,5 @@
 # Registro de cambios
 
-
 ## v1.1.8
 ## v1.1.7
 ## v1.1.6
